@@ -2,6 +2,7 @@ body {
   margin: 0;
   font-family: Karla, sans-serif;
   background-color: #ddd6fe;
+  user-select: none;
 }
 
 .main {
